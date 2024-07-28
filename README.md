@@ -35,4 +35,5 @@ Analyze visualizations for insights:
 Pay close attention to the visualizations in each section. They are designed to provide insights into your financial habits and trends. Use these insights to adjust your spending, savings, investments, and debt management strategies accordingly.
 
 #CONCLUSION
+
 The Personal Finance Dashboard is a powerful tool for managing and analyzing your finances. By regularly updating and reviewing your data, you can gain valuable insights into your spending, savings, investments, and debts. This can help you make informed financial decisions and achieve your financial goals. Start using the dashboard today to take control of your financial health.
